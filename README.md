@@ -1,7 +1,5 @@
 # Optimizing-train-timetables-and-operation-plans-using-multi-objective-genetic-algorithms
 
-# README for Transportation Optimization Script
-
 ## Overview
 
 This Python script is designed for optimizing train scheduling and operations based on specific parameters of train stations and their respective flows. The script leverages the power of genetic algorithms to optimize train operations, ensuring effective handling of passengers while minimizing operational costs. The script reads multiple datasets, performs complex calculations, and provides a framework to simulate and optimize train loop operations using genetic algorithms.
