@@ -1,0 +1,32 @@
+\contentsline {section}{\numberline {1}问题重述}{1}{section.1}%
+\contentsline {section}{\numberline {2}问题分析}{1}{section.2}%
+\contentsline {subsection}{\numberline {2.1}对于问题一}{1}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}对于问题二}{2}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}对于问题三}{2}{subsection.2.3}%
+\contentsline {section}{\numberline {3}模型假设与符号说明}{2}{section.3}%
+\contentsline {subsection}{\numberline {3.1}模型假设}{2}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}符号说明}{2}{subsection.3.2}%
+\contentsline {section}{\numberline {4}模型的建立与求解}{4}{section.4}%
+\contentsline {subsection}{\numberline {4.1}模型的准备}{4}{subsection.4.1}%
+\contentsline {subsubsection}{\numberline {4.1.1}列车客运模型}{4}{subsubsection.4.1.1}%
+\contentsline {subsubsection}{\numberline {4.1.2}遗传算法简介}{5}{subsubsection.4.1.2}%
+\contentsline {subsection}{\numberline {4.2}问题一：仿真模拟计算与遗传算法搜索}{6}{subsection.4.2}%
+\contentsline {subsubsection}{\numberline {4.2.1}仿真模拟计算：计算机模拟列车的运作模式}{6}{subsubsection.4.2.1}%
+\contentsline {subsubsection}{\numberline {4.2.2}求出乘客的平均等待时间}{9}{subsubsection.4.2.2}%
+\contentsline {subsubsection}{\numberline {4.2.3}遗传算法解双目标规划模型}{12}{subsubsection.4.2.3}%
+\contentsline {paragraph}{双目标规划模型}{12}{paragraph*.2}%
+\contentsline {paragraph}{遗传算法流程}{13}{paragraph*.3}%
+\contentsline {paragraph}{计算结果}{14}{paragraph*.4}%
+\contentsline {subsection}{\numberline {4.3}问题二：等间隔的平行运行图}{14}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}问题三：针对不同时间段动态调整列车开行方案}{15}{subsection.4.4}%
+\contentsline {subsubsection}{\numberline {4.4.1}列车开行方案调整的背景}{15}{subsubsection.4.4.1}%
+\contentsline {subsubsection}{\numberline {4.4.2}列车开行方案调整思路}{16}{subsubsection.4.4.2}%
+\contentsline {subsubsection}{\numberline {4.4.3}工作日的列车开行方案调整}{16}{subsubsection.4.4.3}%
+\contentsline {subsubsection}{\numberline {4.4.4}日常节假日的列车开行方案调整}{16}{subsubsection.4.4.4}%
+\contentsline {subsubsection}{\numberline {4.4.5}春节假期的列车开行方案调整}{17}{subsubsection.4.4.5}%
+\contentsline {section}{\numberline {5}模型的评价与改进}{17}{section.5}%
+\contentsline {subsection}{\numberline {5.1}模型的优点}{17}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}模型的缺点}{18}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3}模型的推广}{18}{subsection.5.3}%
+\contentsline {section}{\numberline {A}主要使用的软件}{19}{appendix.A}%
+\contentsline {section}{\numberline {B}程序代码}{19}{appendix.B}%
